@@ -1,0 +1,20 @@
+{
+  "name": "sociallife",
+  "version": "1.0.0",
+  "description": "App for demo of sociallife",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ambrose Hundal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "jade": "^1.11.0",
+    "mongodb": "^3.1.0-beta4",
+    "mongoose": "^5.1.2",
+    "stripe": "^5.8.0"
+  }
+}
